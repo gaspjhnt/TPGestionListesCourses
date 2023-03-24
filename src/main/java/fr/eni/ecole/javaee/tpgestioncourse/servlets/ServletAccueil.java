@@ -14,7 +14,7 @@ import org.apache.tomcat.util.digester.SystemPropertySource;
 import fr.eni.ecole.javaee.tpgestioncourse.GestionListeExcepetion;
 import fr.eni.ecole.javaee.tpgestioncourse.bll.GestionListManager;
 import fr.eni.ecole.javaee.tpgestioncourse.bll.GestionListSingl;
-//Commentaire de test pour git
+
 /**
  * Servlet implementation class ServletAccueil
  */
