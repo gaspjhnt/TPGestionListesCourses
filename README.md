@@ -1,3 +1,3 @@
 # TPGestionListesCourses
 
-TP Java, proejt en JEE et MVC
+Premier TP Java, projet en Java JEE vanilla sur le modèle MVC
